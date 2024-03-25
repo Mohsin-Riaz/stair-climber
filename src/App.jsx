@@ -62,11 +62,11 @@ function App() {
                     </div>
                     <div className="media">
                         <MediaImage
-                            image={'./src/assets/images/gantt.png'}
+                            image={'./images/gantt.png'}
                             label={'Gantt Chart'}
                         />
                         <MediaImage
-                            image={'./src/assets/images/Exploded_View.png'}
+                            image={'./images/Exploded_View.png'}
                             label={'Final Design - Exploded View'}
                         />
 
